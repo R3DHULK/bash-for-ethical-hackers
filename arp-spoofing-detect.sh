@@ -1,4 +1,7 @@
 clear
+apt install git 
+
+clear
 
 git clone https://github.com/R3DHULK/mission-arp
 
@@ -8,7 +11,7 @@ cd mission-arp
 
 clear
 
-sudo apt install python
+apt install python
 
 clear
 
