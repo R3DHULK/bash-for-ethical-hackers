@@ -1,9 +1,3 @@
-clear
-
-cd is-this-your-admin
-
-clear
-
 git clone https://github.com/R3DHULK/is-this-your-admin/
 
 clear
@@ -12,7 +6,7 @@ cd is-this-your-admin
 
 clear
 
-sudo apt install python
+apt install python
 
 clear
 
