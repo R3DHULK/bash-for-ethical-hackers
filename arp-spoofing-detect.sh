@@ -16,5 +16,5 @@ python -m pip install -r requirements.txt
 
 clear
 
-python arp-spoofing-detect.py
+sudo python arp-spoofing-detect.py
 
