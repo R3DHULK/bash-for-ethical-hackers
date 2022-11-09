@@ -1,5 +1,9 @@
 clear
 
+apt install git
+
+clear
+
 git clone https://github.com/R3DHULK/keylogger-in-python
 
 clear
@@ -8,7 +12,7 @@ cd keylogger-in-python
 
 clear
 
-sudo apt install python
+apt install python
 
 clear
 
