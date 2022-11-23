@@ -1,9 +1,9 @@
 <h1><b> Bash For Ethical Hackers </h1></b>
-<h2><b><i> All In One Automated Bash Scripts To Use In Your Hacking Methodology </h2></b></i><br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=17FF38&background=000000&width=441&height=58&lines=Bash+For+Ethical+Hackers;Ethical+Hacking+Tool+Hub;All+In+One+Bash-Scripts+For+Hacking+" alt="Typing SVG" />
 <img src="https://img.shields.io/badge/Used Bash- black"> <img src="https://img.shields.io/badge/Bash For Ethical Hackers-orange"> <img src="https://img.shields.io/badge/Download-Now-green"> <img src="https://img.shields.io/badge/Licence-MIT-yellowgreen">
 
 #
-<h2><b><i> 🔴🔴🔴 This Repo Is Still in Undercontruction And Maintenance 🔴🔴🔴</i></h2></b>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=8000&pause=871&color=F70000&width=435&lines=This+Repo+Is+In+Underconstruction" alt="Typing SVG" /></a>
 
 #
 <h2><i><b> 🔴 Also Check out My <a href="https://github.com/R3DHULK/python-for-ethical-hacking/"> Python For Ethical Hacking</a> Project</h2></i></b>
@@ -70,6 +70,15 @@ We have covered the six most commonly used programming languages by hackers an
 ## 28. [Subdomain Finder](https://github.com/R3DHULK/find-subdomains)
 ## 29. [Wifi DDoS Attack](https://github.com/R3DHULK/target-wifi)
 ## 30. [XSS Vulnerability Scanner](https://github.com/R3DHULK/xss-police)
+## 31. [TCP Scanner](https://github.com/R3DHULK/HulkScanner)
+## 32. [BruteForce Password](https://github.com/R3DHULK/bruteforce-password)
+## 33. [Linux Password Cracker](https://github.com/R3DHULK/linux-pass-cracker)
+## 34. [Bad USB](https://github.com/R3DHULK/bad-usb)
+## 35. [Fake Details Generator](https://github.com/R3DHULK/lets-fake-it)
+## 36. [Password Sniffer](https://github.com/R3DHULK/passwordsniffer)
+## 37. [PwnKit Exploit](https://github.com/R3DHULK/Pwnkit-exploit)
+## 38. [Mac Address Changer](https://github.com/R3DHULK/Mac-Changer)
+## 39. [Anonymity Checker](https://github.com/R3DHULK/am-i-anonymous)
 
 #
 <h1><b> Git Installation For Termux And Linux : </b></h1>
